@@ -1,0 +1,94 @@
+@media (max-width:770px){
+    .name-role{
+        padding-left: 20px;
+    }
+
+    .project-title, .about-project{
+        width: 85%;
+    }
+}
+
+@media (max-width:682px){
+    #About-Me, #My-Projects, #Contact-Me, #Project-Title {
+        padding: 30px 0;
+    }
+
+    .hero-sec{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:30px;
+    }
+
+    .empty-box{
+        transform: rotate(-34.383deg) translate(-10%, -45%);
+    }
+
+    .hero-right{
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .name-role{
+        padding-left: 0;
+    }
+
+    .about-me-body{
+        flex-direction: column;
+        gap:40px;
+    }
+
+    .know-me, .my-skills{
+        width: 100%;
+    }
+
+    .my-skills-body {
+        justify-content: center;
+        gap: 16px 10px;
+        text-align: center;
+    }
+
+    .my-skills-icon img {
+        width: 60%;
+    }
+
+    .contact-me-body{
+        width: 80%;
+    }
+
+    
+}
+
+@media (max-width:622px){
+    .project-card{
+        flex-direction: column;
+    }
+
+    .project-image{
+        width: 80%;
+    }
+
+    .project-info{
+        width:100%;
+    }
+}
+
+@media (max-width:501px){
+    .contact-me-body{
+        width: 100%;
+    }
+
+    .footer-info{
+        flex-direction: column;
+        gap:40px;
+    }
+
+    .footer-right{
+        align-items: normal;
+    }
+
+    .footer-left,.footer-right{
+        width: 100%;
+    }
+}

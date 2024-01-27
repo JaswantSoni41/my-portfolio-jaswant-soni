@@ -1,0 +1,92 @@
+@media (max-width:481px){
+    nav{
+        padding: 10px 20px;
+    }
+
+    .empty-box{
+        transform: rotate(-37.383deg) translate(-10%, -45%);
+    }
+
+    .hero-sec{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 35px;
+    }
+
+    .hero-right{
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .name-role a{
+        margin-top: 50px;
+    }
+
+    .social-media-landscape{
+        margin-top: 70px;
+    }
+    
+
+    .small-laptop{
+        width: 65%;
+    }
+
+
+    #About-Me, #My-Projects, #Contact-Me, #Project-Title {
+        padding: 30px 0;
+    }
+
+    .about-me, .my-projects, .contact-me, .project-title, .about-project{
+        margin: 0 auto;
+        width: 90%;
+    }
+
+        
+    .know-me, .my-skills, .project-info, .contact-me-body, .footer-left,.footer-right{
+        width: 100%;
+    }
+
+    .my-skills-body {
+        justify-content: center;
+        gap: 16px 10px;
+        text-align: center;
+    }
+
+    .my-skills-icon img {
+        width: 50%;
+    }
+
+
+    .project-card{
+        flex-direction: column;
+    }
+
+    .project-image{
+        width: 100%;
+    }
+
+    .project-info{
+        padding: 25px 5px;
+    }
+
+    .contact-me-body{
+        padding: 41px 21px;
+    }
+
+    .name-email-msg {
+        gap: 30px;
+    }
+
+    .project-desc {
+        margin: 30px 0;
+    }
+
+
+    .tags{
+        padding: 12px 30px;
+    }
+
+
+}
