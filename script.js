@@ -79,7 +79,7 @@ handleVideo();
 projectCard("./assets/videos/real-time-chat-app.mp4", "Real Time Chat App", "is a Web Based Chat Application which was build during my Third Year of Engineering as a Mini-Project and here is my role to develop a frontend.", "real-time.html")
 
 
-projectCard("./assets/videos/Aityl Games - App Development.mp4", "Aityl Games (Remastered)", "embodying the essence of an app development company, the remastered landing page unifies visual allure with functionality. It stands as a testament to the company's dedication to delivering a sophisticated and user-centric experience in the ever-evolving landscape of gaming applications.", "aityl-games.html")
+//projectCard("./assets/videos/Aityl Games - App Development.mp4", "Aityl Games (Remastered)", "embodying the essence of an app development company, the remastered landing page unifies visual allure with functionality. It stands as a testament to the company's dedication to delivering a sophisticated and user-centric experience in the ever-evolving landscape of gaming applications.", "aityl-games.html")
 
 projectCard("./assets/videos/SRC-movie-website.mp4", "SRC - Online Movie Watching Website", "Spearheading frontend development during my 3rd Year Engineering, I crafted a modern platform offering free movies with a non-intrusive Google AdSense integration for a seamless viewing experience.", "src.html")
 
